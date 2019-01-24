@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval" >
+
+    <!-- 设置边框的颜色 -->
+    <solid android:color="#000000" />
+    <!-- 设置边框的圆角程度     -->
+    <corners android:radius="10dp" />
+
+</shape>

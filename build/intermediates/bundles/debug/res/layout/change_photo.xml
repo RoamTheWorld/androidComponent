@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="217dp"
+    android:layout_gravity="bottom"
+    android:background="@drawable/dialog_bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/ib_change_photo_take"
+        android:layout_width="251dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/change_head_photo_selector"
+        android:gravity="center"
+        android:text="拍照"
+        android:textColor="#ffffff"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/ib_change_photo_fromalbum"
+        android:layout_width="251dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/change_head_photo_selector"
+        android:gravity="center"
+        android:text="从相册中选择"
+        android:textColor="#ffffff"
+        android:textSize="23sp" />
+
+    <Button
+        android:id="@+id/ib_change_photo_cancel"
+        android:layout_width="251dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/cancle_slector"
+        android:gravity="center"
+        android:text="取消"
+        android:textColor="#ffffff"
+        android:textSize="23sp" />
+
+</LinearLayout>

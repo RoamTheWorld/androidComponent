@@ -1,0 +1,65 @@
+apply plugin: 'com.android.library'
+
+def static releaseTime() {
+    return new Date().format("yyyy-MM-dd", TimeZone.getTimeZone("UTC"))
+}
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+
+    defaultConfig {
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion rootProject.ext.targetSdkVersion
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+
+            def params_a = rootProject.ext.lib_params
+            def set = params_a.keySet();
+            for (Object key : set.iterator()) {
+                if (params_a.get(key).equals(true) || params_a.get(key).equals(false)) {
+                    buildConfigField "boolean", key, params_a.get(key) ? "true" : "false"
+                    continue;
+                }
+
+                buildConfigField "String", key, "\"" + params_a.get(key) + "\""
+            }
+        }
+        debug{
+            def params_a = rootProject.ext.lib_params
+            def set = params_a.keySet();
+            for (Object key : set.iterator()) {
+                if (params_a.get(key).equals(true) || params_a.get(key).equals(false)) {
+                    buildConfigField "boolean", key, params_a.get(key) ? "true" : "false"
+                    continue;
+                }
+
+                buildConfigField "String", key, "\"" + params_a.get(key) + "\""
+            }
+        }
+
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+}
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile(name: 'rxandroid-1.2.1', ext: 'aar')
+    compile(name: 'rxbinding-0.4.0', ext: 'aar')
+    compile(name: 'threetenabp-1.0.3', ext: 'aar')
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.google.code.gson:gson:2.8.1'
+    implementation files('libs/AMap3DMap_6.6.0_AMapNavi_6.5.0_20181221.jar')
+    implementation files('libs/AMap_Location_V4.4.0_20181122.jar')
+    implementation files('libs/AMap_Search_V6.5.0_20180930.jar')
+}

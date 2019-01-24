@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:up72="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns="http://schemas.android.com/apk/res-auto"
+    android:background="#00000000"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/small_space"
+    android:paddingRight="@dimen/small_space" >
+
+    <TextView
+        android:id="@+id/tv_contact_initials"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/small_space"
+        android:textSize="@dimen/xmiddle_textSize"
+        android:textStyle="bold"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/iv_contact_initals_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/middle_divider_widthAndHeight"
+        android:layout_marginTop="@dimen/small_space"
+        android:background="@drawable/contact_item_divider_line"
+        android:contentDescription="@string/imageDescription"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/drawable_contact_item_selector"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="@dimen/small_space" >
+
+        <com.android.ui.widget.HeadImageView
+            android:id="@+id/iv_contact_photo"
+            android:layout_width="@dimen/small_head_width"
+            android:layout_height="@dimen/small_head_height"
+            android:contentDescription="@string/imageDescription"
+            up72:display_method="circle"
+             />
+
+        <TextView
+            android:id="@+id/tv_contact_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/small_space"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/middle_textSize" />
+
+        <TextView
+            android:id="@+id/tv_contact_phone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/small_space"
+            android:layout_weight="2"
+            android:gravity="center_vertical"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/sixteen_sp" />
+
+        <ImageView
+            android:id="@+id/iv_contact_call"
+            android:layout_width="@dimen/contact_check_widthAndHeight"
+            android:layout_height="@dimen/contact_check_widthAndHeight"
+            android:background="@drawable/contact_call"
+            android:contentDescription="@string/imageDescription"
+            android:visibility="visible" />
+
+        <CheckBox
+            android:id="@+id/cb_contact_check"
+            android:layout_width="@dimen/contact_check_widthAndHeight"
+            android:layout_height="@dimen/contact_check_widthAndHeight"
+            android:button="@drawable/drawable_contact_item_check_selector"
+            android:checked="false"
+            android:visibility="visible" />
+    </LinearLayout>
+
+</LinearLayout>

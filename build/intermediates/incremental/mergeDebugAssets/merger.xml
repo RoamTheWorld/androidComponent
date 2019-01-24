@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\nad\androidComponent\src\main\assets"><file name="debug.keystore" path="F:\nad\androidComponent\src\main\assets\debug.keystore"/></source><source path="F:\nad\androidComponent\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\nad\androidComponent\src\debug\assets"/></dataSet></merger>

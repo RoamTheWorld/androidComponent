@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.android.ui.widget.ClearEditText
+        android:id="@+id/et_contact_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/search_edit_bg"
+        android:drawableLeft="@drawable/search"
+        android:drawablePadding="5dp"
+        android:drawableRight="@drawable/delete"
+        android:ems="10"
+        android:gravity="center_vertical"
+        android:hint="@string/text_contact_search"
+        android:inputType="text" >
+    </com.android.ui.widget.ClearEditText>
+
+</LinearLayout>

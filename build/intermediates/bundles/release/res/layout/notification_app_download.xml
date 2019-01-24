@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_shape_corner_10">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
+        android:padding="3dp">
+
+        <ImageView
+            android:id="@+id/notificationImage"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="3dp"
+            android:background="@drawable/ic_launcher"
+            android:contentDescription="imageDescription" />
+
+        <TextView
+            android:id="@+id/notificationTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="6dp"
+            android:layout_toRightOf="@id/notificationImage"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/notificationPercent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/notificationTitle"
+            android:layout_marginLeft="6dp"
+            android:layout_toRightOf="@id/notificationImage"
+            android:textColor="@color/black" />
+
+        <ProgressBar
+            android:id="@+id/notificationProgress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/notificationPercent"
+            android:layout_below="@id/notificationTitle"
+            android:layout_toRightOf="@id/notificationPercent"
+            android:paddingLeft="6dp"
+            android:progressDrawable="@drawable/bg_process"
+            android:paddingRight="3dp"
+            android:paddingTop="2dp" />
+    </RelativeLayout>
+
+</LinearLayout>

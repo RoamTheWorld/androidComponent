@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\nad\androidComponent\src\main\res"/><source path="F:\nad\androidComponent\build\generated\res\rs\release"/><source path="F:\nad\androidComponent\build\generated\res\resValues\release"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\nad\androidComponent\src\main\res"><file name="from_bottom" path="F:\nad\androidComponent\src\main\res\anim\from_bottom.xml" qualifiers="" type="anim"/><file name="push_left_in" path="F:\nad\androidComponent\src\main\res\anim\push_left_in.xml" qualifiers="" type="anim"/><file name="push_left_out" path="F:\nad\androidComponent\src\main\res\anim\push_left_out.xml" qualifiers="" type="anim"/><file name="push_right_in" path="F:\nad\androidComponent\src\main\res\anim\push_right_in.xml" qualifiers="" type="anim"/><file name="push_right_out" path="F:\nad\androidComponent\src\main\res\anim\push_right_out.xml" qualifiers="" type="anim"/><file name="to_top" path="F:\nad\androidComponent\src\main\res\anim\to_top.xml" qualifiers="" type="anim"/><file name="vpi__dark_theme" path="F:\nad\androidComponent\src\main\res\color\vpi__dark_theme.xml" qualifiers="" type="color"/><file name="vpi__light_theme" path="F:\nad\androidComponent\src\main\res\color\vpi__light_theme.xml" qualifiers="" type="color"/><file name="bg_btn_yellow" path="F:\nad\androidComponent\src\main\res\drawable\bg_btn_yellow.xml" qualifiers="" type="drawable"/><file name="bg_process" path="F:\nad\androidComponent\src\main\res\drawable\bg_process.xml" qualifiers="" type="drawable"/><file name="bg_shape_corner_10" path="F:\nad\androidComponent\src\main\res\drawable\bg_shape_corner_10.xml" qualifiers="" type="drawable"/><file name="cancle_slector" path="F:\nad\androidComponent\src\main\res\drawable\cancle_slector.xml" qualifiers="" type="drawable"/><file name="change_head_photo_selector" path="F:\nad\androidComponent\src\main\res\drawable\change_head_photo_selector.xml" qualifiers="" type="drawable"/><file name="dot_focused" path="F:\nad\androidComponent\src\main\res\drawable\dot_focused.xml" qualifiers="" type="drawable"/><file name="dot_normal" path="F:\nad\androidComponent\src\main\res\drawable\dot_normal.xml" qualifiers="" type="drawable"/><file name="drawable_contact_item_check_selector" path="F:\nad\androidComponent\src\main\res\drawable\drawable_contact_item_check_selector.xml" qualifiers="" type="drawable"/><file name="drawable_contact_item_selector" path="F:\nad\androidComponent\src\main\res\drawable\drawable_contact_item_selector.xml" qualifiers="" type="drawable"/><file name="drawable_loading" path="F:\nad\androidComponent\src\main\res\drawable\drawable_loading.xml" qualifiers="" type="drawable"/><file name="drawable_loading_dialog" path="F:\nad\androidComponent\src\main\res\drawable\drawable_loading_dialog.xml" qualifiers="" type="drawable"/><file name="drawable_viewpager_circle_focused" path="F:\nad\androidComponent\src\main\res\drawable\drawable_viewpager_circle_focused.xml" qualifiers="" type="drawable"/><file name="drawable_viewpager_circle_normal" path="F:\nad\androidComponent\src\main\res\drawable\drawable_viewpager_circle_normal.xml" qualifiers="" type="drawable"/><file name="loading_dialog" path="F:\nad\androidComponent\src\main\res\drawable\loading_dialog.xml" qualifiers="" type="drawable"/><file name="red_back" path="F:\nad\androidComponent\src\main\res\drawable\red_back.png" qualifiers="" type="drawable"/><file name="selector_back" path="F:\nad\androidComponent\src\main\res\drawable\selector_back.xml" qualifiers="" type="drawable"/><file name="sidebar_background" path="F:\nad\androidComponent\src\main\res\drawable\sidebar_background.xml" qualifiers="" type="drawable"/><file name="vpi__tab_indicator" path="F:\nad\androidComponent\src\main\res\drawable\vpi__tab_indicator.xml" qualifiers="" type="drawable"/><file name="bg_login" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\bg_login.png" qualifiers="hdpi-v4" type="drawable"/><file name="big_btn_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\big_btn_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_back" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\button_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="cancel_down" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\cancel_down.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="cancel_normal" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\cancel_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="car_login" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\car_login.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_head_photo_down" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\change_head_photo_down.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_head_photo_normal" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\change_head_photo_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_photo_fromalbum_down" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\change_photo_fromalbum_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="change_photo_fromalbum_normal" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\change_photo_fromalbum_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="chat_options" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\chat_options.png" qualifiers="hdpi-v4" type="drawable"/><file name="contact_call" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\contact_call.png" qualifiers="hdpi-v4" type="drawable"/><file name="contact_check_false" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\contact_check_false.png" qualifiers="hdpi-v4" type="drawable"/><file name="contact_check_true" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\contact_check_true.png" qualifiers="hdpi-v4" type="drawable"/><file name="contact_choice_complete" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\contact_choice_complete.png" qualifiers="hdpi-v4" type="drawable"/><file name="contact_item_divider_line" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\contact_item_divider_line.png" qualifiers="hdpi-v4" type="drawable"/><file name="delete" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\delete.png" qualifiers="hdpi-v4" type="drawable"/><file name="dialog_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\dialog_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="dialog_loading" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\dialog_loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="edit_text_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\edit_text_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="empty_photo" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\empty_photo.png" qualifiers="hdpi-v4" type="drawable"/><file name="empty_view" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\empty_view.png" qualifiers="hdpi-v4" type="drawable"/><file name="fliploading_down_arrow" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\fliploading_down_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="fliploading_up_arrow" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\fliploading_up_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="head_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\head_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_back" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\ic_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="juhua" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\juhua.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="lanhua" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\lanhua.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="loading" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading_dialog_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\loading_dialog_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\login_bg.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="login_edit_name_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\login_edit_name_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_edit_pswd_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\login_edit_pswd_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_logo" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\login_logo.png" qualifiers="hdpi-v4" type="drawable"/><file name="man" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\man.png" qualifiers="hdpi-v4" type="drawable"/><file name="meihua" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\meihua.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="screenview_seekpoint_normal" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\screenview_seekpoint_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="screenview_seekpoint_selected" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\screenview_seekpoint_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="search" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\search.png" qualifiers="hdpi-v4" type="drawable"/><file name="search_edit_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\search_edit_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="sorlistview_show_head_toast_bg" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\sorlistview_show_head_toast_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="switch_bkg_switch" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\switch_bkg_switch.png" qualifiers="hdpi-v4" type="drawable"/><file name="switch_btn_slip" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\switch_btn_slip.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\vpi__tab_selected_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\vpi__tab_unselected_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="woman" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\woman.png" qualifiers="hdpi-v4" type="drawable"/><file name="zhuzhi" path="F:\nad\androidComponent\src\main\res\drawable-hdpi\zhuzhi.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\nad\androidComponent\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="F:\nad\androidComponent\src\main\res\drawable-mdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="F:\nad\androidComponent\src\main\res\drawable-mdpi\vpi__tab_selected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="F:\nad\androidComponent\src\main\res\drawable-mdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="F:\nad\androidComponent\src\main\res\drawable-mdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="F:\nad\androidComponent\src\main\res\drawable-mdpi\vpi__tab_unselected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="F:\nad\androidComponent\src\main\res\drawable-mdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="click_back" path="F:\nad\androidComponent\src\main\res\drawable-xhdpi\click_back.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\nad\androidComponent\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="F:\nad\androidComponent\src\main\res\drawable-xhdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="F:\nad\androidComponent\src\main\res\drawable-xhdpi\vpi__tab_selected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="F:\nad\androidComponent\src\main\res\drawable-xhdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="F:\nad\androidComponent\src\main\res\drawable-xhdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="F:\nad\androidComponent\src\main\res\drawable-xhdpi\vpi__tab_unselected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="F:\nad\androidComponent\src\main\res\drawable-xhdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\nad\androidComponent\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="change_photo" path="F:\nad\androidComponent\src\main\res\layout\change_photo.xml" qualifiers="" type="layout"/><file name="contact_layout" path="F:\nad\androidComponent\src\main\res\layout\contact_layout.xml" qualifiers="" type="layout"/><file name="contact_list_item_layout" path="F:\nad\androidComponent\src\main\res\layout\contact_list_item_layout.xml" qualifiers="" type="layout"/><file name="dialog_layout" path="F:\nad\androidComponent\src\main\res\layout\dialog_layout.xml" qualifiers="" type="layout"/><file name="examle_adapter_refresh_list_item" path="F:\nad\androidComponent\src\main\res\layout\examle_adapter_refresh_list_item.xml" qualifiers="" type="layout"/><file name="example_activity_refresh_test" path="F:\nad\androidComponent\src\main\res\layout\example_activity_refresh_test.xml" qualifiers="" type="layout"/><file name="image_item" path="F:\nad\androidComponent\src\main\res\layout\image_item.xml" qualifiers="" type="layout"/><file name="layout_banner" path="F:\nad\androidComponent\src\main\res\layout\layout_banner.xml" qualifiers="" type="layout"/><file name="layout_contact_bottom" path="F:\nad\androidComponent\src\main\res\layout\layout_contact_bottom.xml" qualifiers="" type="layout"/><file name="layout_contact_search" path="F:\nad\androidComponent\src\main\res\layout\layout_contact_search.xml" qualifiers="" type="layout"/><file name="layout_fliploading" path="F:\nad\androidComponent\src\main\res\layout\layout_fliploading.xml" qualifiers="" type="layout"/><file name="layout_item_loading" path="F:\nad\androidComponent\src\main\res\layout\layout_item_loading.xml" qualifiers="" type="layout"/><file name="layout_item_loading_error" path="F:\nad\androidComponent\src\main\res\layout\layout_item_loading_error.xml" qualifiers="" type="layout"/><file name="layout_item_loading_finish" path="F:\nad\androidComponent\src\main\res\layout\layout_item_loading_finish.xml" qualifiers="" type="layout"/><file name="layout_photo_album" path="F:\nad\androidComponent\src\main\res\layout\layout_photo_album.xml" qualifiers="" type="layout"/><file name="layout_viewflow_activity" path="F:\nad\androidComponent\src\main\res\layout\layout_viewflow_activity.xml" qualifiers="" type="layout"/><file name="loading_dialog" path="F:\nad\androidComponent\src\main\res\layout\loading_dialog.xml" qualifiers="" type="layout"/><file name="login_activity" path="F:\nad\androidComponent\src\main\res\layout\login_activity.xml" qualifiers="" type="layout"/><file name="notification_app_download" path="F:\nad\androidComponent\src\main\res\layout\notification_app_download.xml" qualifiers="" type="layout"/><file name="setting_activity" path="F:\nad\androidComponent\src\main\res\layout\setting_activity.xml" qualifiers="" type="layout"/><file name="title_base_layout" path="F:\nad\androidComponent\src\main\res\layout\title_base_layout.xml" qualifiers="" type="layout"/><file name="webview_activity" path="F:\nad\androidComponent\src\main\res\layout\webview_activity.xml" qualifiers="" type="layout"/><file name="main" path="F:\nad\androidComponent\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="F:\nad\androidComponent\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="ViewFlow">
+        <attr format="integer" name="sidebuffer"/>
+    </declare-styleable><declare-styleable name="ViewFlow_CircleFlowIndicator">
+        <attr format="color" name="activeColor"/>
+        <attr format="color" name="inactiveColor"/>
+        <attr format="dimension" name="vf_radius"/>
+        <attr format="dimension" name="spacing"/>
+        <attr name="centered"/>
+        <attr format="integer" name="fadeOut"/>
+        <attr name="inactiveType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr>
+        <attr name="activeType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="ViewFlow_TitleFlowIndicator">
+        <attr format="dimension" name="vf_titlePadding"/>
+        
+        <attr format="dimension" name="vf_clipPadding"/>
+        <attr name="selectedColor"/>
+        <attr format="boolean" name="vf_selectedBold"/>
+        <attr format="dimension" name="selectedSize"/>
+        <attr format="color" name="textColors"/>
+        <attr format="dimension" name="textSizes"/>
+        <attr format="dimension" name="vf_footerLineHeight"/>
+        <attr format="color" name="vf_footerColor"/>
+        <attr format="dimension" name="footerTriangleHeight"/>
+        <attr format="string" name="customTypeface"/>
+    </declare-styleable><declare-styleable name="NetworkImageView">
+        <attr name="display_method">
+            <enum name="circle" value="0"/>
+            <enum name="rectangle" value="1"/>
+            <enum name="square" value="2"/>
+        </attr>
+        <attr name="load_method">
+            <enum name="volley" value="0"/>
+            <enum name="universal" value="1"/>
+        </attr>
+        <attr format="fraction" name="circular_scale"/>
+    </declare-styleable></file><file path="F:\nad\androidComponent\src\main\res\values\colors.xml" qualifiers=""><color name="transparent">#00000000</color><color name="translate">#00FFFFFF</color><color name="e2e4e7">#E2E4E7</color><color name="drop_down_to_refresh_list_header_font_color">#666666</color><color name="white">#ffffff</color><color name="ivory">#fffff0</color><color name="lightyellow">#ffffe0</color><color name="yellow">#ffff00</color><color name="snow">#fffafa</color><color name="floralwhite">#fffaf0</color><color name="lemonchiffon">#fffacd</color><color name="cornsilk">#fff8dc</color><color name="seaShell">#fff5ee</color><color name="lavenderblush">#fff0f5</color><color name="papayawhip">#ffefd5</color><color name="blanchedalmond">#ffebcd</color><color name="mistyrose">#ffe4e1</color><color name="bisque">#ffe4c4</color><color name="moccasin">#ffe4b5</color><color name="navajowhite">#ffdead</color><color name="peachpuff">#ffdab9</color><color name="gold">#ffd700</color><color name="pink">#ffc0cb</color><color name="lightpink">#ffb6c1</color><color name="orange">#ffa500</color><color name="lightsalmon">#ffa07a</color><color name="darkorange">#ff8c00</color><color name="coral">#ff7f50</color><color name="hotpink">#ff69b4</color><color name="tomato">#ff6347</color><color name="orangered">#ff4500</color><color name="deeppink">#ff1493</color><color name="fuchsia">#ff00ff</color><color name="magenta">#ff00ff</color><color name="red">#ff0000</color><color name="oldlace">#fdf5e6</color><color name="lightgoldenrodyellow">#fafad2</color><color name="linen">#faf0e6</color><color name="antiquewhite">#faebd7</color><color name="salmon">#fa8072</color><color name="classics">#8f8f8f</color><color name="ghostwhite">#f8f8ff</color><color name="mintcream">#f5fffa</color><color name="whitesmoke">#f5f5f5</color><color name="beige">#f5f5dc</color><color name="wheat">#f5deb3</color><color name="sandybrown">#f4a460</color><color name="azure">#f0ffff</color><color name="honeydew">#f0fff0</color><color name="aliceblue">#f0f8ff</color><color name="khaki">#f0e68c</color><color name="lightcoral">#f08080</color><color name="palegoldenrod">#eee8aa</color><color name="violet">#ee82ee</color><color name="darksalmon">#e9967a</color><color name="lavender">#e6e6fa</color><color name="lightcyan">#e0ffff</color><color name="burlywood">#deb887</color><color name="plum">#dda0dd</color><color name="gainsboro">#dcdcdc</color><color name="crimson">#dc143c</color><color name="palevioletred">#db7093</color><color name="goldenrod">#daa520</color><color name="orchid">#da70d6</color><color name="thistle">#d8bfd8</color><color name="lightgray">#d3d3d3</color><color name="tan">#d2b48c</color><color name="chocolate">#d2691e</color><color name="peru">#cd853f</color><color name="indianred">#cd5c5c</color><color name="mediumvioletred">#c71585</color><color name="silver">#c0c0c0</color><color name="darkkhaki">#bdb76b</color><color name="rosybrown">#bc8f8f</color><color name="mediumorchid">#ba55d3</color><color name="darkgoldenrod">#b8860b</color><color name="firebrick">#b22222</color><color name="powderblue">#b0e0e6</color><color name="lightsteelblue">#b0c4de</color><color name="paleturquoise">#afeeee</color><color name="greenyellow">#adff2f</color><color name="lightblue">#add8e6</color><color name="darkgray">#a9a9a9</color><color name="darkgrey">#a9a9a9</color><color name="brown">#a52a2a</color><color name="sienna">#a0522d</color><color name="darkorchid">#9932cc</color><color name="palegreen">#98fb98</color><color name="darkviolet">#9400d3</color><color name="mediumpurple">#9370db</color><color name="lightgreen">#90ee90</color><color name="darkseagreen">#8fbc8f</color><color name="saddlebrown">#8b4513</color><color name="darkmagenta">#8b008b</color><color name="darkred">#8b0000</color><color name="blueviolet">#8a2be2</color><color name="lightskyblue">#87cefa</color><color name="skyblue">#87ceeb</color><color name="gray">#0D808080</color><color name="olive">#808000</color><color name="purple">#800080</color><color name="maroon">#800000</color><color name="aquamarine">#7fffd4</color><color name="chartreuse">#7fff00</color><color name="lawngreen">#7cfc00</color><color name="mediumslateblue">#7b68ee</color><color name="lightslategray">#778899</color><color name="lightslategrey">#778899</color><color name="slategray">#708090</color><color name="slategrey">#708090</color><color name="olivedrab">#6b8e23</color><color name="slateblue">#6a5acd</color><color name="dimgrey">#696969</color><color name="mediumaquamarine">#66cdaa</color><color name="cornflowerblue">#6495ed</color><color name="cadetblue">#5f9ea0</color><color name="darkolivegreen">#556b2f</color><color name="indigo">#4b0082</color><color name="mediumturquoise">#48d1cc</color><color name="darkslateblue">#483d8b</color><color name="steelblue">#4682b4</color><color name="royalblue">#4169e1</color><color name="turquoise">#40e0d0</color><color name="mediumseagreen">#3cb371</color><color name="limegreen">#32cd32</color><color name="darkslategray">#2f4f4f</color><color name="seagreen">#2e8b57</color><color name="forestgreen">#228b22</color><color name="lightseagreen">#20b2aa</color><color name="dodgerblue">#1e90ff</color><color name="midnightblue">#191970</color><color name="aqua">#00ffff</color><color name="cyan">#00ffff</color><color name="springgreen">#00ff7f</color><color name="lime">#00ff00</color><color name="mediumspringgreen">#00fa9a</color><color name="darkturquoise">#00ced1</color><color name="deepskyblue">#00bfff</color><color name="darkcyan">#008b8b</color><color name="teal">#008080</color><color name="green">#008000</color><color name="darkgreen">#006400</color><color name="blue">#0000ff</color><color name="mediumblue">#0000cd</color><color name="darkblue">#00008b</color><color name="navy">#000080</color><color name="black">#000000</color><color name="light">#E8E8E7</color><color name="EFEFEF">#EFEFEF</color></file><file path="F:\nad\androidComponent\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">25dp</dimen><dimen name="image_thumbnail_size">100dp</dimen><dimen name="image_thumbnail_spacing">1dp</dimen><dimen name="image_detail_pager_margin">80dp</dimen><dimen name="six_sp">6sp</dimen><dimen name="eight_sp">8sp</dimen><dimen name="ten_sp">10sp</dimen><dimen name="twelve_sp">12sp</dimen><dimen name="fourteen_sp">14sp</dimen><dimen name="sixteen_sp">16sp</dimen><dimen name="eighteen_sp">18sp</dimen><dimen name="twenty_sp">20sp</dimen><dimen name="twenty_two_sp">22sp</dimen><dimen name="twenty_four_sp">24sp</dimen><dimen name="twenty_six_sp">26sp</dimen><dimen name="twenty_eight_sp">28sp</dimen><dimen name="thirty_sp">30sp</dimen><dimen name="thirty_two_sp">32sp</dimen><dimen name="thirty_four_sp">34sp</dimen><dimen name="thirty_six_sp">36sp</dimen><dimen name="thirty_eight_sp">38sp</dimen><dimen name="fourty_sp">40sp</dimen><dimen name="main_gv_tv_sp">18sp</dimen><dimen name="small_textSize">15sp</dimen><dimen name="middle_textSize">17sp</dimen><dimen name="xmiddle_textSize">20sp</dimen><dimen name="radius">80dp</dimen><dimen name="head_radius">-1dp</dimen><dimen name="small_space">5dp</dimen><dimen name="xsmall_space">10dp</dimen><dimen name="middle_space">20dp</dimen><dimen name="xmiddle_space">30dp</dimen><dimen name="big_space">40dp</dimen><dimen name="xbig_space">50dp</dimen><dimen name="title_height">50dp</dimen><dimen name="button_textSize">15sp</dimen><dimen name="title_textSize">20sp</dimen><dimen name="title_button_height">50dp</dimen><dimen name="title_button_width">38dp</dimen><dimen name="title_button_margin">5dp</dimen><dimen name="button_height">35dp</dimen><dimen name="button_width">75dp</dimen><dimen name="headphoto_radius">10dp</dimen><dimen name="loading_dialog_width">170dp</dimen><dimen name="loading_dialog_height">116dp</dimen><dimen name="loading_dialog_margin_top">10dp</dimen><dimen name="loading_dialog_textSize">15sp</dimen><dimen name="small_divider_widthAndHeight">1dp</dimen><dimen name="middle_divider_widthAndHeight">2dp</dimen><dimen name="xmiddle_divider_widthAndHeight">3dp</dimen><dimen name="small_head_width">40dp</dimen><dimen name="small_head_height">40dp</dimen><dimen name="middle_head_width">60dp</dimen><dimen name="middle_head_height">60dp</dimen><dimen name="xmiddle_head_width">70dp</dimen><dimen name="xmiddle_head_height">70dp</dimen><dimen name="dot_size">5dp</dimen><dimen name="progressBar_minWidth">72dp</dimen><dimen name="progressBar_minHeight">72dp</dimen><dimen name="progressBar_item_textSize">11sp</dimen><dimen name="dialog_layout_height">200dp</dimen><dimen name="viewpager_circle_size">5dp</dimen><dimen name="contact_check_widthAndHeight">32dp</dimen></file><file path="F:\nad\androidComponent\src\main\res\values\pullseparate-attrs.xml" qualifiers=""><declare-styleable name="PullSeparateListView">
+        <attr format="boolean" name="separate_all"/>
+        <attr format="boolean" name="showDownAnim"/>
+    </declare-styleable></file><file path="F:\nad\androidComponent\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">AndroidComponent</string><string name="action_settings">Settings</string><string name="hello_world">Hello world!</string><string name="app_description">This is a sample application for the Android Training class
+        "Displaying Bitmaps Efficiently"
+        (http://developer.android.com/training/displaying-bitmaps/display-bitmap.html). It is not
+        designed to be a full reference application but to demonstrate the concepts discussed in
+        training course.</string><string name="imageDescription">imageDescription</string><string name="clear_cache_menu">Clear Caches</string><string name="clear_cache_complete_toast">Caches have been cleared</string><string name="imageview_description">Image Thumbnail</string><string name="no_network_connection_toast">No network connection found</string><string name="noNetWork">当前网络不可用，请检查您的网络设置</string><string name="pull_to_refresh_pull_down_tips">下拉可以刷新</string><string name="pull_to_refresh_pull_up_tips">上拉加载更多</string><string name="pull_to_refresh_release_tips">松开即可刷新</string><string name="pull_to_refresh_refreshing_tips">加载中</string><string name="pull_to_refresh_click_tips">点击更新</string><string name="adapter_loading">正在加载</string><string name="text_forget_password">忘记密码</string><string name="text_register">注册</string><string name="text_user_name">输入用户名</string><string name="text_password">密码</string><string name="button_login">登 陆</string><string name="text_contact_title">联系人</string><string name="text_contact_group_title">群组</string><string name="text_contact_search">请输入您需要查询的关键字</string><string name="text_net_loading">正在加载...</string></file><file path="F:\nad\androidComponent\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="TransparentBottom" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+    </style><style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/from_bottom</item>
+        <item name="android:activityOpenExitAnimation">@anim/from_bottom</item>
+        <item name="android:activityCloseEnterAnimation">@anim/to_top</item>
+        <item name="android:activityCloseExitAnimation">@anim/to_top</item>
+        <item name="android:taskOpenEnterAnimation">@anim/from_bottom</item>
+        <item name="android:taskOpenExitAnimation">@anim/from_bottom</item>
+        <item name="android:taskCloseEnterAnimation">@anim/to_top</item>
+        <item name="android:taskCloseExitAnimation">@anim/to_top</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/from_bottom</item>
+        <item name="android:taskToFrontExitAnimation">@anim/from_bottom</item>
+        <item name="android:taskToBackEnterAnimation">@anim/to_top</item>
+        <item name="android:taskToBackExitAnimation">@anim/to_top</item>
+    </style><style name="AppTheme" parent="android:Theme"/><style name="AppTheme.FullScreen" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen"/><style name="loading_dialog" parent="@android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">false</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:backgroundDimEnabled">false</item>
+        
+        <item name="android:windowBackground">@color/translate</item>
+        
+    </style><style name="progressBarStyle" parent="android:style/Widget.ProgressBar.Large">
+        <item name="android:minWidth">@dimen/progressBar_minWidth</item>
+        <item name="android:minHeight">@dimen/progressBar_minHeight</item>
+    </style><style name="item_text_info" parent="android:Widget.TextView">
+        <item name="android:textSize">@dimen/progressBar_item_textSize</item>
+    </style></file><file path="F:\nad\androidComponent\src\main\res\values\vpi__attrs.xml" qualifiers=""><declare-styleable name="ViewPagerIndicator">
+        
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="boolean" name="centered"/><attr format="color" name="selectedColor"/><attr format="dimension" name="strokeWidth"/><attr format="color" name="unselectedColor"/><declare-styleable name="CirclePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="color" name="pageColor"/>
+        
+        <attr name="android:orientation"/>
+        
+        <attr format="dimension" name="radius"/>
+        
+        <attr format="boolean" name="snap"/>
+        
+        <attr format="color" name="strokeColor"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="LinePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr name="unselectedColor"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="dimension" name="lineWidth"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr format="dimension" name="gapWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="TitlePageIndicator">
+        
+        <attr format="dimension" name="clipPadding"/>
+        
+        <attr format="color" name="footerColor"/>
+        
+        <attr format="dimension" name="footerLineHeight"/>
+        
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        
+        <attr format="dimension" name="footerPadding"/>
+        
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="boolean" name="selectedBold"/>
+        
+        <attr name="android:textColor"/>
+        
+        <attr name="android:textSize"/>
+        
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="topPadding"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        
+        <attr format="boolean" name="fades"/>
+        
+        <attr format="integer" name="fadeDelay"/>
+        
+        <attr format="integer" name="fadeLength"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable></file><file path="F:\nad\androidComponent\src\main\res\values\vpi__colors.xml" qualifiers=""><color name="vpi__background_holo_dark">#ff000000</color><color name="vpi__background_holo_light">#fff3f3f3</color><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color></file><file path="F:\nad\androidComponent\src\main\res\values\vpi__defaults.xml" qualifiers=""><bool name="default_circle_indicator_centered">true</bool><color name="default_circle_indicator_fill_color">#FFFFFFFF</color><color name="default_circle_indicator_page_color">#00000000</color><integer name="default_circle_indicator_orientation">0</integer><dimen name="default_circle_indicator_radius">3dp</dimen><bool name="default_circle_indicator_snap">false</bool><color name="default_circle_indicator_stroke_color">#FFDDDDDD</color><dimen name="default_circle_indicator_stroke_width">1dp</dimen><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_line_indicator_gap_width">4dp</dimen><dimen name="default_line_indicator_stroke_width">1dp</dimen><color name="default_line_indicator_selected_color">#FF33B5E5</color><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><bool name="default_line_indicator_centered">true</bool><dimen name="default_title_indicator_clip_padding">4dp</dimen><color name="default_title_indicator_footer_color">#FF33B5E5</color><dimen name="default_title_indicator_footer_line_height">2dp</dimen><integer name="default_title_indicator_footer_indicator_style">2</integer><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><dimen name="default_title_indicator_footer_padding">7dp</dimen><integer name="default_title_indicator_line_position">0</integer><color name="default_title_indicator_selected_color">#FFFFFFFF</color><bool name="default_title_indicator_selected_bold">true</bool><color name="default_title_indicator_text_color">#BBFFFFFF</color><dimen name="default_title_indicator_text_size">15dp</dimen><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_title_indicator_top_padding">7dp</dimen><bool name="default_underline_indicator_fades">true</bool><integer name="default_underline_indicator_fade_delay">300</integer><integer name="default_underline_indicator_fade_length">400</integer><color name="default_underline_indicator_selected_color">#FF33B5E5</color></file><file path="F:\nad\androidComponent\src\main\res\values\vpi__styles.xml" qualifiers=""><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="Widget">
+    </style><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style></file><file path="F:\nad\androidComponent\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="F:\nad\androidComponent\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="F:\nad\androidComponent\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="F:\nad\androidComponent\build\generated\res\rs\release"/><source path="F:\nad\androidComponent\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="F:\nad\androidComponent\src\release\res"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="F:\nad\androidComponent\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullSeparateListView"><attr format="boolean" name="separate_all"/><attr format="boolean" name="showDownAnim"/></declare-styleable><declare-styleable name="ViewFlow_TitleFlowIndicator"><attr format="dimension" name="vf_titlePadding"/><attr format="dimension" name="vf_clipPadding"/><attr name="selectedColor"/><attr format="boolean" name="vf_selectedBold"/><attr format="dimension" name="selectedSize"/><attr format="color" name="textColors"/><attr format="dimension" name="textSizes"/><attr format="dimension" name="vf_footerLineHeight"/><attr format="color" name="vf_footerColor"/><attr format="dimension" name="footerTriangleHeight"/><attr format="string" name="customTypeface"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="NetworkImageView"><attr name="display_method">
+            <enum name="circle" value="0"/>
+            <enum name="rectangle" value="1"/>
+            <enum name="square" value="2"/>
+        </attr><attr name="load_method">
+            <enum name="volley" value="0"/>
+            <enum name="universal" value="1"/>
+        </attr><attr format="fraction" name="circular_scale"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="ViewFlow"><attr format="integer" name="sidebuffer"/></declare-styleable><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="ViewFlow_CircleFlowIndicator"><attr format="color" name="activeColor"/><attr format="color" name="inactiveColor"/><attr format="dimension" name="vf_radius"/><attr format="dimension" name="spacing"/><attr name="centered"/><attr format="integer" name="fadeOut"/><attr name="inactiveType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr><attr name="activeType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable></configuration></mergedItems></merger>

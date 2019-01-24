@@ -1,0 +1,67 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="TransparentBottom" parent="android:Theme">
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+    </style>
+
+    <style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@anim/from_bottom</item>
+        <item name="android:activityOpenExitAnimation">@anim/from_bottom</item>
+        <item name="android:activityCloseEnterAnimation">@anim/to_top</item>
+        <item name="android:activityCloseExitAnimation">@anim/to_top</item>
+        <item name="android:taskOpenEnterAnimation">@anim/from_bottom</item>
+        <item name="android:taskOpenExitAnimation">@anim/from_bottom</item>
+        <item name="android:taskCloseEnterAnimation">@anim/to_top</item>
+        <item name="android:taskCloseExitAnimation">@anim/to_top</item>
+        <item name="android:taskToFrontEnterAnimation">@anim/from_bottom</item>
+        <item name="android:taskToFrontExitAnimation">@anim/from_bottom</item>
+        <item name="android:taskToBackEnterAnimation">@anim/to_top</item>
+        <item name="android:taskToBackExitAnimation">@anim/to_top</item>
+    </style>
+
+    <style name="AppTheme" parent="android:Theme" />
+
+    <style name="AppTheme.FullScreen" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
+
+    <!-- 对话框样式 -->
+    <style name="loading_dialog" parent="@android:Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+        <item name="android:windowBackground">@color/translate</item>
+        <!-- 背景透明 -->
+    </style>
+
+    <style name="progressBarStyle" parent="android:style/Widget.ProgressBar.Large">
+        <item name="android:minWidth">@dimen/progressBar_minWidth</item>
+        <item name="android:minHeight">@dimen/progressBar_minHeight</item>
+    </style>
+
+    <style name="item_text_info" parent="android:Widget.TextView">
+        <item name="android:textSize">@dimen/progressBar_item_textSize</item>
+    </style>
+
+</resources>

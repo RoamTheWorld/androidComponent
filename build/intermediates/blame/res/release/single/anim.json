@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\to_top.xml",
+        "source": "F:\\nad\\androidComponent\\src\\main\\res\\anim\\to_top.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\push_left_in.xml",
+        "source": "F:\\nad\\androidComponent\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\push_right_out.xml",
+        "source": "F:\\nad\\androidComponent\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\chicheng\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\84be8c38248d36bc380d163173b1cfd2\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\push_right_in.xml",
+        "source": "F:\\nad\\androidComponent\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\push_left_out.xml",
+        "source": "F:\\nad\\androidComponent\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\nad\\androidComponent\\build\\intermediates\\res\\merged\\release\\anim\\from_bottom.xml",
+        "source": "F:\\nad\\androidComponent\\src\\main\\res\\anim\\from_bottom.xml"
+    }
+]

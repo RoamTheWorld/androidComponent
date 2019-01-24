@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.security.auth.callback.Callback'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
